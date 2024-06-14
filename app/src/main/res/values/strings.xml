@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SuperHeroTrunfo</string>
+    <string name="super_trunfo_heros">super trunfo heros</string>
+    <string name="duelar">Duelar</string>
+    <string name="escolha_seu_deck">escolha_seu_deck</string>
+    <string name="escolher_deck_da_marvel">Escolher Deck da Marvel</string>
+    <string name="escolher_deck_da_dc">Escolher Deck da DC</string>
+    <string name="super_trunfo_her_is">Super Trunfo Heróis</string>
+    <string name="deck_dc">Deck DC</string>
+    <string name="deck_marvel">Deck Marvel</string>
+    <string name="dc_deck">DC Deck</string>
+    <string name="marvel_deck">Marvel Deck</string>
+    <string name="super_trunfo_tittle">Super Trunfo Heróis</string>
+    <string name="comparar">comparar</string>
+    <string name="selecione_carta_oponente">selecione_carta_oponente</string>
+    <string name="super_trunfo_heros_">Super Trunfo Heros</string>
+    <string name="deck_dc_">Deck DC</string>
+    <string name="deck_marvel_">Deck Marvel</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Adicione os elementos da interface do usuário para a tela principal aqui -->
+
+    <Button
+        android:id="@+id/buttonDD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/deck_dc_" />
+
+    <Button
+        android:id="@+id/buttonMD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonDD"
+        android:layout_centerHorizontal="true"
+        android:text="@string/deck_marvel_" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="297dp"
+        android:layout_height="56dp"
+        android:layout_above="@+id/buttonDD"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="56dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="195dp"
+        android:text="@string/super_trunfo_heros_"
+        android:textColor="#FF0000"
+        android:textSize="34sp" />
+
+</RelativeLayout>
+
